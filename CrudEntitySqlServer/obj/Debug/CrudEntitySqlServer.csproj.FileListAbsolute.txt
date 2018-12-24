@@ -1,0 +1,16 @@
+C:\Users\Wehrmann\Google Drive\Github\CrudEntitySqlServer\CrudEntitySqlServer\bin\Debug\CrudEntitySqlServer.exe.config
+C:\Users\Wehrmann\Google Drive\Github\CrudEntitySqlServer\CrudEntitySqlServer\bin\Debug\CrudEntitySqlServer.exe
+C:\Users\Wehrmann\Google Drive\Github\CrudEntitySqlServer\CrudEntitySqlServer\bin\Debug\CrudEntitySqlServer.pdb
+C:\Users\Wehrmann\Google Drive\Github\CrudEntitySqlServer\CrudEntitySqlServer\obj\Debug\CrudEntitySqlServer.csprojAssemblyReference.cache
+C:\Users\Wehrmann\Google Drive\Github\CrudEntitySqlServer\CrudEntitySqlServer\obj\Debug\CrudEntitySqlServer.Form1.resources
+C:\Users\Wehrmann\Google Drive\Github\CrudEntitySqlServer\CrudEntitySqlServer\obj\Debug\CrudEntitySqlServer.Form2.resources
+C:\Users\Wehrmann\Google Drive\Github\CrudEntitySqlServer\CrudEntitySqlServer\obj\Debug\CrudEntitySqlServer.Properties.Resources.resources
+C:\Users\Wehrmann\Google Drive\Github\CrudEntitySqlServer\CrudEntitySqlServer\obj\Debug\CrudEntitySqlServer.csproj.GenerateResource.cache
+C:\Users\Wehrmann\Google Drive\Github\CrudEntitySqlServer\CrudEntitySqlServer\obj\Debug\CrudEntitySqlServer.csproj.CoreCompileInputs.cache
+C:\Users\Wehrmann\Google Drive\Github\CrudEntitySqlServer\CrudEntitySqlServer\obj\Debug\CrudEntitySqlServer.exe
+C:\Users\Wehrmann\Google Drive\Github\CrudEntitySqlServer\CrudEntitySqlServer\obj\Debug\CrudEntitySqlServer.pdb
+C:\Users\Wehrmann\Google Drive\Github\CrudEntitySqlServer\CrudEntitySqlServer\bin\Debug\EntityFramework.dll
+C:\Users\Wehrmann\Google Drive\Github\CrudEntitySqlServer\CrudEntitySqlServer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Wehrmann\Google Drive\Github\CrudEntitySqlServer\CrudEntitySqlServer\bin\Debug\EntityFramework.xml
+C:\Users\Wehrmann\Google Drive\Github\CrudEntitySqlServer\CrudEntitySqlServer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Wehrmann\Google Drive\Github\CrudEntitySqlServer\CrudEntitySqlServer\obj\Debug\CrudEntitySqlServer.csproj.CopyComplete

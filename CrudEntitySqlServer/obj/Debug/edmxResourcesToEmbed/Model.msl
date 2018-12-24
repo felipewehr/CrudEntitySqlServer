@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DbEntity2ModelStoreContainer" CdmEntityContainer="DbEntity2Entities">
+    <EntitySetMapping Name="Artigos">
+      <EntityTypeMapping TypeName="DbEntity2Model.Artigos">
+        <MappingFragment StoreEntitySet="Artigos">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="Palavra" ColumnName="Palavra" />
+          <ScalarProperty Name="Numero" ColumnName="Numero" />
+          <ScalarProperty Name="Texto" ColumnName="Texto" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
